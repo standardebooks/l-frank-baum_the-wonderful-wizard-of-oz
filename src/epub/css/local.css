@@ -34,3 +34,8 @@ footer{
 .signature{
 	font-variant: small-caps;
 }
+
+em{
+	font-weight: normal;
+	font-variant: small-caps;
+}
