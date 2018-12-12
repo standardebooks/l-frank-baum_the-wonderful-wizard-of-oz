@@ -2,9 +2,9 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/l-frank-baum/the-wonderful-wizard-of-oz</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
-		<meta property="se:revision-number">0</meta>
+		<dc:date>2018-12-12T23:08:06Z</dc:date>
+		<meta property="dcterms:modified">2018-12-12T23:08:06Z</meta>
+		<meta property="se:revision-number">1</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -62,17 +62,16 @@
 		<dc:description id="description">The adventures of a young farm girl named Dorothy in the magical Land of Oz, after she and her pet dog Toto are swept away from their Kansas home by a cyclone.</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;&lt;i epub:type=&quot;se:name.publication.book&quot;&gt;The Wonderful Wizard of Oz&lt;/i&gt; is a classic American children&rsquo;s novel written by author &lt;abbr class=&quot;name&quot;&gt;L.&lt;/abbr&gt; Frank Baum, originally published in May 1900. It has been in production ever since and has been adapted into a popular Broadway musical as well as an iconic 1939 musical film.&lt;/p&gt; 
-			&lt;p&gt;The story describes the adventures of a young farm girl named Dorothy in the magical Land of Oz, after she and her pet dog Toto are swept away from their Kansas home by a cyclone. The Library of Congress has declared it &ldquo;America&rsquo;s greatest and best-loved homegrown fairy-tale.&rdquo; Its groundbreaking success and the success of the Broadway musical adaptation led Baum to write thirteen additional Oz books which serve as sequels to the first story.&lt;/p&gt; 
-			&lt;p&gt;Dorothy is a young girl who lives with her Aunt Em and Uncle Henry and her little dog Toto on a farm in the Kansas prairie. One day, Dorothy and Toto are caught up in a cyclone that deposits her farmhouse into Munchkin Country in the magical Land of Oz. The falling house has killed the Wicked Witch of the East, the evil ruler of the Munchkins. The Good Witch of the North arrives with three grateful Munchkins and gives Dorothy the magical Silver Shoes that once belonged to the Wicked Witch. The Good Witch tells Dorothy that the only way she can return home is to go to the Emerald City and ask the great and powerful Wizard of Oz to help her.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;The Wonderful Wizard of Oz&lt;/i&gt; is the classic American children’s novel about the adventures of Dorothy, a young girl who along with her dog Toto is swept away by a cyclone to the magical Land of Oz. It was written by L. Frank Baum and published in May 1900.&lt;/p&gt;
+			&lt;p&gt;Dorothy lives with her Aunt Em, Uncle Henry, Toto on a farm in the Kansas prairie. One day, Dorothy and Toto are caught up in a cyclone that deposits her farmhouse into Munchkin Country in the magical Land of Oz. The falling house has killed the Wicked Witch of the East, the evil ruler of the Munchkins. The Good Witch of the North arrives with three grateful Munchkins and gives Dorothy the magical Silver Shoes that once belonged to the Wicked Witch. The Good Witch tells Dorothy that the only way she can return home is to go to the Emerald City and ask the great and powerful Wizard of Oz to help her.&lt;/p&gt;
+			&lt;p&gt;The Library of Congress has declared it “America’s greatest and best-loved homegrown fairy-tale.” Its groundbreaking success and the success of the Broadway musical adaptation led Baum to write thirteen additional Oz books which serve as sequels to the first story. The 1939 film musical adaptation starring Judy Garland is considered by many to be one of the greatest films in cinema history.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/55</dc:source>
 		<dc:source>https://archive.org/details/wonderfulwizardo00baumiala</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
-		<meta property="se:word-count">WORDCOUNT</meta>
-		<meta property="se:reading-ease.flesch">READINGEASE</meta>
+		<meta property="se:word-count">39695</meta>
+		<meta property="se:reading-ease.flesch">77.98</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Wonderful_Wizard_of_Oz</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/l-frank-baum_the-wonderful-wizard-of-oz</meta>
 		<dc:creator id="author">L. Frank Baum</dc:creator>
@@ -100,6 +99,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
