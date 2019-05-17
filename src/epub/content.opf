@@ -26,7 +26,7 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Wonderful Wizard of Oz</dc:title>
 		<meta property="file-as" refines="#title">Wonderful Wizard of Oz, The</meta>
 		<dc:subject id="subject-1">Oz (Imaginary place) -- Juvenile fiction</dc:subject>
@@ -43,29 +43,41 @@
 		<dc:subject id="subject-12">Witches -- Juvenile fiction</dc:subject>
 		<dc:subject id="subject-13">Wizard of Oz (Fictitious character) -- Juvenile fiction</dc:subject>
 		<dc:subject id="subject-14">Tin Woodman (Fictitious character) -- Juvenile fiction</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/55</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/55</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/55</meta>
-		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/55</meta>
-		<meta property="meta-auth" refines="#subject-5">https://www.gutenberg.org/ebooks/55</meta>
-		<meta property="meta-auth" refines="#subject-6">https://www.gutenberg.org/ebooks/55</meta>
-		<meta property="meta-auth" refines="#subject-7">https://www.gutenberg.org/ebooks/55</meta>
-		<meta property="meta-auth" refines="#subject-8">https://www.gutenberg.org/ebooks/55</meta>
-		<meta property="meta-auth" refines="#subject-9">https://www.gutenberg.org/ebooks/55</meta>
-		<meta property="meta-auth" refines="#subject-10">https://www.gutenberg.org/ebooks/55</meta>
-		<meta property="meta-auth" refines="#subject-11">https://www.gutenberg.org/ebooks/55</meta>
-		<meta property="meta-auth" refines="#subject-12">https://www.gutenberg.org/ebooks/55</meta>
-		<meta property="meta-auth" refines="#subject-13">https://www.gutenberg.org/ebooks/55</meta>
-		<meta property="meta-auth" refines="#subject-14">https://www.gutenberg.org/ebooks/55</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">Unknown</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh85047145</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh2009122160</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">Unknown</meta>
+		<meta property="authority" refines="#subject-5">LCSH</meta>
+		<meta property="term" refines="#subject-5">sh2008105340</meta>
+		<meta property="authority" refines="#subject-6">LCSH</meta>
+		<meta property="term" refines="#subject-6">sh2009123809</meta>
+		<meta property="authority" refines="#subject-7">LCSH</meta>
+		<meta property="term" refines="#subject-7">Unknown</meta>
+		<meta property="authority" refines="#subject-8">LCSH</meta>
+		<meta property="term" refines="#subject-8">Unknown</meta>
+		<meta property="authority" refines="#subject-9">LCSH</meta>
+		<meta property="term" refines="#subject-9">Unknown</meta>
+		<meta property="authority" refines="#subject-10">LCSH</meta>
+		<meta property="term" refines="#subject-10">Unknown</meta>
+		<meta property="authority" refines="#subject-11">LCSH</meta>
+		<meta property="term" refines="#subject-11">Unknown</meta>
+		<meta property="authority" refines="#subject-12">LCSH</meta>
+		<meta property="term" refines="#subject-12">sh2008113551</meta>
+		<meta property="authority" refines="#subject-13">LCSH</meta>
+		<meta property="term" refines="#subject-13">Unknown</meta>
+		<meta property="authority" refines="#subject-14">LCSH</meta>
+		<meta property="term" refines="#subject-14">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">The adventures of a young farm girl named Dorothy in the magical Land of Oz, after she and her pet dog Toto are swept away from their Kansas home by a cyclone.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Wonderful Wizard of Oz&lt;/i&gt; is the classic American children’s novel about the adventures of Dorothy, a young girl who along with her dog Toto is swept away by a cyclone to the magical Land of Oz. It was written by L. Frank Baum and published in May 1900.&lt;/p&gt;
 			&lt;p&gt;Dorothy lives with her Aunt Em, Uncle Henry, and Toto on a farm in the Kansas prairie. One day, Dorothy and Toto are caught up in a cyclone that deposits her farmhouse into Munchkin Country in the magical Land of Oz. The falling house has killed the Wicked Witch of the East, the evil ruler of the Munchkins. The Good Witch of the North arrives with three grateful Munchkins and gives Dorothy the magical Silver Shoes that once belonged to the Wicked Witch. The Good Witch tells Dorothy that the only way she can return home is to go to the Emerald City and ask the great and powerful Wizard of Oz to help her.&lt;/p&gt;
 			&lt;p&gt;The Library of Congress has declared it “America’s greatest and best-loved homegrown fairy-tale.” Its groundbreaking success and the success of the Broadway musical adaptation led Baum to write thirteen additional Oz books which serve as sequels to the first story. The 1939 film musical adaptation starring Judy Garland is considered by many to be one of the greatest films in cinema history.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/55</dc:source>
 		<dc:source>https://archive.org/details/wonderfulwizardo00baumiala</dc:source>
