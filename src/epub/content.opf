@@ -72,6 +72,9 @@
 		<meta property="authority" refines="#subject-14">LCSH</meta>
 		<meta property="term" refines="#subject-14">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
+		<meta id="collection-1" property="belongs-to-collection">Oz</meta>
+		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta property="group-position" refines="#collection-1">1</meta>
 		<dc:description id="description">The adventures of a young farm girl named Dorothy in the magical Land of Oz, after she and her pet dog Toto are swept away from their Kansas home by a cyclone.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;&lt;i&gt;The Wonderful Wizard of Oz&lt;/i&gt; is the classic American children’s novel about the adventures of Dorothy, a young girl who along with her dog Toto is swept away by a cyclone to the magical Land of Oz. It was written by &lt;a href="https://standardebooks.org/ebooks/l-frank-baum"&gt;&lt;abbr&gt;L.&lt;/abbr&gt; Frank Baum&lt;/a&gt; and published in May 1900.&lt;/p&gt;
