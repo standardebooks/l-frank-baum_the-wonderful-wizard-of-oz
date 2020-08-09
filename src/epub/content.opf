@@ -89,7 +89,7 @@
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Wonderful_Wizard_of_Oz</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/l-frank-baum_the-wonderful-wizard-of-oz</meta>
 		<dc:creator id="author">L. Frank Baum</dc:creator>
-		<meta property="file-as" refines="#author">Baum L. Frank</meta>
+		<meta property="file-as" refines="#author">Baum, L. Frank</meta>
 		<meta property="se:name.person.full-name" refines="#author">Lyman Frank Baum</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/L_Frank_Baum</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n80110912</meta>
