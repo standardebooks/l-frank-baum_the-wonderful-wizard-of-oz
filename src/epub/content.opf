@@ -92,13 +92,13 @@
 		<meta property="file-as" refines="#author">Baum, L. Frank</meta>
 		<meta property="se:name.person.full-name" refines="#author">Lyman Frank Baum</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/L_Frank_Baum</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">https://id.loc.gov/authorities/names/n80110912</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n80110912</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="se:role" refines="#author" scheme="marc:relators">win</meta>
 		<dc:contributor id="artist">Joseph Anton Koch</dc:contributor>
 		<meta property="file-as" refines="#artist">Koch, Joseph Anton</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Joseph_Anton_Koch</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">https://id.loc.gov/authorities/names/n85120831</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n85120831</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">The Online Distributed Proofreading Team</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Online Distributed Proofreading Team, The</meta>
