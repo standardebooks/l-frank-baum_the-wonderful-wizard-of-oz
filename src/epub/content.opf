@@ -30,20 +30,20 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">The Wonderful Wizard of Oz</dc:title>
 		<meta property="file-as" refines="#title">Wonderful Wizard of Oz, The</meta>
-		<dc:subject id="subject-1">Oz (Imaginary place) -- Juvenile fiction</dc:subject>
+		<dc:subject id="subject-1">Oz (Imaginary place)--Juvenile fiction</dc:subject>
 		<dc:subject id="subject-2">Fantasy literature</dc:subject>
-		<dc:subject id="subject-3">Courage -- Juvenile fiction</dc:subject>
-		<dc:subject id="subject-4">Home -- Juvenile fiction</dc:subject>
-		<dc:subject id="subject-5">Good and evil -- Juvenile fiction</dc:subject>
-		<dc:subject id="subject-6">Dreams -- Juvenile fiction</dc:subject>
-		<dc:subject id="subject-7">Gale, Dorothy (Fictitious character) -- Juvenile fiction</dc:subject>
-		<dc:subject id="subject-8">Cowardly Lion (Fictitious character) -- Juvenile fiction</dc:subject>
-		<dc:subject id="subject-9">Cyclones -- Juvenile fiction</dc:subject>
-		<dc:subject id="subject-10">Scarecrow (Fictitious character from Baum) -- Juvenile fiction</dc:subject>
-		<dc:subject id="subject-11">Toto (Fictitious character) -- Juvenile fiction</dc:subject>
-		<dc:subject id="subject-12">Witches -- Juvenile fiction</dc:subject>
-		<dc:subject id="subject-13">Wizard of Oz (Fictitious character) -- Juvenile fiction</dc:subject>
-		<dc:subject id="subject-14">Tin Woodman (Fictitious character) -- Juvenile fiction</dc:subject>
+		<dc:subject id="subject-3">Courage--Juvenile fiction</dc:subject>
+		<dc:subject id="subject-4">Home--Juvenile fiction</dc:subject>
+		<dc:subject id="subject-5">Good and evil--Juvenile fiction</dc:subject>
+		<dc:subject id="subject-6">Dreams--Juvenile fiction</dc:subject>
+		<dc:subject id="subject-7">Gale, Dorothy (Fictitious character)--Juvenile fiction</dc:subject>
+		<dc:subject id="subject-8">Cowardly Lion (Fictitious character)--Juvenile fiction</dc:subject>
+		<dc:subject id="subject-9">Cyclones--Juvenile fiction</dc:subject>
+		<dc:subject id="subject-10">Scarecrow (Fictitious character from Baum)--Juvenile fiction</dc:subject>
+		<dc:subject id="subject-11">Toto (Fictitious character)--Juvenile fiction</dc:subject>
+		<dc:subject id="subject-12">Witches--Juvenile fiction</dc:subject>
+		<dc:subject id="subject-13">Wizard of Oz (Fictitious character)--Juvenile fiction</dc:subject>
+		<dc:subject id="subject-14">Tin Woodman (Fictitious character)--Juvenile fiction</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
