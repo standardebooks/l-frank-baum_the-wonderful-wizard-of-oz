@@ -94,7 +94,7 @@
 		<dc:creator id="author">L. Frank Baum</dc:creator>
 		<meta property="file-as" refines="#author">Baum, L. Frank</meta>
 		<meta property="schema:alternateName" refines="#author">Lyman Frank Baum</meta>
-		<link href="https://en.wikipedia.org/wiki/L_Frank_Baum" refines="#author" rel="schema:sameAs"/>
+		<link href="https://en.wikipedia.org/wiki/L._Frank_Baum" refines="#author" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/n80110912.html" refines="#author" rel="schema:sameAs"/>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">win</meta>
